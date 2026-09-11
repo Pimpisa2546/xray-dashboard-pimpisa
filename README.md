@@ -1,8 +1,11 @@
 ## ขั้นตอนการรันโปรเจกต์
 
 ```bash
-# 1. ติดตั้ง Dependencies
+# 1. ไปที่ Folder frontend
+cd frontend
+
+# 2. ติดตั้ง Dependencies
 npm install
 
-# 2. รันโปรเจกต์ (Development Mode)
+# 3. รันโปรเจกต์ (Development Mode)
 npm run dev
